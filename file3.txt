@@ -1,1 +1,2 @@
 youcome to java session
+Learning about GIT
