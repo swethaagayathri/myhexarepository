@@ -1,6 +1,13 @@
+ <<<<<<< plot
+Plot
+Cinderella, a kind-hearted girl mistreated by her stepfamily, finds her happily ever after with the prince after a magical transformation and a lost glass slipper leads to their reunion.
+=======
+ <<<<<<< character
 Characters and their Intro
 Cinderella - a kind woman who is hated by her step mom
 Fairy - a fairy who helps cinderella
 =======
+ <<<<<<< setting
 Setting 
 The story takes place in kingdom and cinderella house
+ >>>>>>> main
